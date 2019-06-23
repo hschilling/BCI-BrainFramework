@@ -1,7 +1,11 @@
 # BrainFramework 🧠
 BrainFramework is a small framework to quickly and easily write small BCI prototypes for the Emotiv EPOC+.
 
-I created this framework as part of a free elective with Prof. Dr.-Ing. Martin Leissler in order to make it easier for future students to get started with BCI using the Emotiv EPOC.
+Maximilian Brandl created this framework as part of a free elective with Prof. Dr.-Ing. Martin Leissler in order to
+make it easier for future students to get started with BCI using the Emotiv EPOC.
+
+With his permission, I changed the name so the high school student I mentor could use it without getting into
+trouble!
 
 This framework allows easy communication with the CortexAPI:<br />
 [https://emotiv.github.io/cortex-docs/#introduction](https://emotiv.github.io/cortex-docs/#introduction)
